@@ -1,0 +1,7 @@
+name: Reputation
+main: com.kNoAPP.Reputation.Reputation
+depend: [MultiLineAPI]
+version: 1.0
+commands:
+    rep:
+        description: Reputation Manager
